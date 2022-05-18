@@ -3,7 +3,7 @@ plugins {
     id("io.gitlab.arturbosch.detekt") version "1.20.0"
 }
 
-group = "thomaspfeiffer.sum.of.strings.kata"
+group = "coding.challenge"
 version = "1.0"
 
 repositories {

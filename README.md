@@ -1,6 +1,6 @@
-# sum-of-strings-kata
+# coding-challenge
 
-![build](https://github.com/ThomasPfeiffer/sum-of-strings-kata/actions/workflows/gradle-ci.yml/badge.svg?branch=main)
+![build](https://github.com/ThomasPfeiffer/coding-challenge/actions/workflows/gradle-ci.yml/badge.svg?branch=main)
 
 ## Build with Gradle
 ```

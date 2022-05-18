@@ -1,1 +1,1 @@
-rootProject.name = "sum-of-strings-kata"
+rootProject.name = "coding-challenge"
